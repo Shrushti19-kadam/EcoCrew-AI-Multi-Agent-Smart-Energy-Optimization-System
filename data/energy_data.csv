@@ -1,0 +1,7 @@
+appliance,power_watts,hours_per_day
+AC,1500,5
+Fan,75,10
+TV,120,4
+Refrigerator,200,24
+Washing Machine,500,1
+Light,10,6
